@@ -2,6 +2,10 @@
 
 Repository with links to materials from useR2021 tutorials and presentations
 
+## Talks
+
+- [Keynote: Expanding the Vocabulary of R Graphics - Paul Murrell](https://www.stat.auckland.ac.nz/~paul/Talks/useR2021/)
+
 
 ## Tutorials
 
