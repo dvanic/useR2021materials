@@ -9,6 +9,7 @@ Repository with links to materials from useR2021 tutorials and presentations
 
 ## Education session
 - [Teaching and Learning Bayesian Statistics with {bayesrules} - Mine Dogucu](https://github.com/mdogucu/user-2021)
+- [New Carpentries template - Zhian Kamvar](), including [sandpaper](https://carpentries.github.io/sandpaper/), [pegboard](https://carpentries.github.io/pegboard/), [varnish](https://github.com/carpentries/varnish)
 
 
 ## Tutorials
