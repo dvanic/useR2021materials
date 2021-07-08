@@ -7,6 +7,10 @@ Repository with links to materials from useR2021 tutorials and presentations
 - [Keynote: Expanding the Vocabulary of R Graphics - Paul Murrell](https://www.stat.auckland.ac.nz/~paul/Talks/useR2021/)
 
 
+## Education session
+- [Teaching and Learning Bayesian Statistics with {bayesrules} - Mine Dogucu](https://github.com/mdogucu/user-2021)
+
+
 ## Tutorials
 
 - [GET better at testing your #RStats package - Maёlle Salmon](https://http-testing-r.netlify.app/)
